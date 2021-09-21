@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milenaafeworki
-- 👀 I am open to data science roles and to colleborate on projects.
 - 🌱 I'm a recent Data Science and Machine learning graduate with a BSc. in Civil Engineering.
+- 👀 I'm open to data science roles and to collaborate on projects.
 - 🖊️ Check out my [Medium](https://milena-pa.medium.com/) page for my latest blog posts.
 - 📫 Want to get in touch? Shoot me an email at milena22peter@gmail.com
 
